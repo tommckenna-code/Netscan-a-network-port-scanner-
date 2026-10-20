@@ -6,7 +6,7 @@ Built as a personal cyber security project to demonstrate TCP/IP
 networking, socket programming and concurrency
 to demonstrate understanding of network fundamentals.
 
-![alt text](image.png)
+![alt text](netscan/image.png)
 
 # How to run
 open any terminal and enter the following:
